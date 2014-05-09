@@ -1,0 +1,1 @@
+c:\users\master\documents\visual studio 2012\Projects\RemoveDuplicates\bin\Debug\RemoveDuplicates.exe.config
